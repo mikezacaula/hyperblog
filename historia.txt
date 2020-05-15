@@ -3,4 +3,8 @@ Esta es la historia de su vida
 tengo 27 años vivo en Texas
 y muy pronto
 
+<<<<<<< HEAD
 aprendere a programar.
+=======
+aprendere a programar otro dia 
+>>>>>>> cabecera
